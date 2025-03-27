@@ -115,6 +115,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AlvaroGR04/AlvaroGR04/output/snake.svg" alt="Snake animation" />
 
-###
